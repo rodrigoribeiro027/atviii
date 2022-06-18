@@ -2,6 +2,7 @@ import { useState } from "react";
 import BarraNavegacao from "./barraNavegacao";
 import FormularioCadastroCliente from "./formularioCadastroCliente";
 import ListaClientes from "./listaClientes";
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
 export default function Roteador() {
     const [tela, setTela] = useState('Clientes')

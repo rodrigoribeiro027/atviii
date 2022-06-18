@@ -1,4 +1,7 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
+
+import './cliente.css'
+
+
 export default function ListaClientes(props) {
     const estilo = `collection-item active ${props.tema}`
     return (

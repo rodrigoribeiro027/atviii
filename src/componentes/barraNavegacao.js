@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import 'materialize-css/dist/css/materialize.min.css'
+import { Link } from 'react-router-dom'
 
 export default function BarraNavegacao(props) {
 
@@ -8,7 +9,7 @@ export default function BarraNavegacao(props) {
             return <></>
         } else {
             let lista = props.botoes.map(valor =>
-                <li key={valor}><a onClick={(e) => props.seletorView(valor, e)}>{valor}</a></li>
+                <li key={valor}><Link to = {valor} >{valor}</Link></li>
             )
             return lista
         }
