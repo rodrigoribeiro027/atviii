@@ -1,9 +1,13 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import 'materialize-css/dist/css/materialize.min.css'
 import { Link } from 'react-router-dom'
+import M from 'materialize-css'
+import { useEffect } from 'react';
 
 export default function BarraNavegacao(props) {
-
+    useEffect(() => { 
+        M.AutoInit()
+    }, [])
     const gerarListaBotoes = () => {
         if (props.botoes.length <= 0) {
             return <></>
