@@ -9,8 +9,8 @@
 
 |Integrantes da Equipe|Linkedin|Github|Avatar|
 |:---------|:-------:|:------:|:------:|
-|Rodrigo Ribeiro dos Santos|[Linkedin](https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/) | [Github](https://github.com/rodrigoribeiro027)|<img src = "imagens/rodrigo.jpg" width="60" height="60">|
-|Rafael Peressoni Waltrick|[Linkedin](https://www.linkedin.com/in/rafael-p-waltrick-7211b4221) | [Github](https://github.com/rafawaltrick)|<img src = "imagens/rafa.jpg" width="60" height="60">|
+|Rodrigo Ribeiro dos Santos|[Linkedin](https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/) | [Github](https://github.com/rodrigoribeiro027)|<img src = "imagens/rodrigo.jpg" width="90" height="90">|
+|Rafael Peressoni Waltrick|[Linkedin](https://www.linkedin.com/in/rafael-p-waltrick-7211b4221) | [Github](https://github.com/rafawaltrick)|<img src = "imagens/rafa.jpg" width="90" height="90">|
 
   
 <h2> ⛏️ Para executar a aplicação</h2>
