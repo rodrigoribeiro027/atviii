@@ -19,7 +19,7 @@
 - Faça o clone do repositório:
 
 ```
-git clone https://github.com/Nicolas734/atvi-wb-typescript.git
+git clone https://github.com/rodrigoribeiro027/atviii
 ```
 - Na pasta raiz do projeto, digite:
 ```
