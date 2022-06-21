@@ -3,6 +3,10 @@
 
 <h2> 📑 Atividade 3 - Técnica de Programação I </h2>
 
+<p>
+  O objetivo é construir a mesma  GUI, feita anteriormentecom componentes de classe,  mas  agora  com componentes  de  função  e,  se  necessário,  utilizando  hooks  para  controle do  ciclo de  vida  dos  componentes.
+</p>
+
 
 <div id='equipe'>
 <h2> 🎓 Equipe de Desenvolvimento </h2>
